@@ -1,5 +1,5 @@
 ##COMPSCI 516 Project 0 
-  ###    --- pros and cons of specific data platforms 
+###    --- pros and cons of specific data platforms 
 </br>
 ###name: xiaohang wang
 ###netid: xw65
