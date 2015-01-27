@@ -9,7 +9,7 @@
 
 _strength_
 
- * (1) good at large data processing: specific for Big Data analysis [1]
+ * (1) good at large data processing: the performance is excellent for Big Data analysis [1]
 
  * (2) good performance: can do rapid, seamless integration and analysis of disparate datasets [2]
 
